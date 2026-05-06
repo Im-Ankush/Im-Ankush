@@ -94,7 +94,7 @@ Scalable notification architecture featuring:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Im-Ankush&theme=tokyo-night)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Im-Ankush&theme=tokyonight)
 
 # 📫 Connect With Me
 
