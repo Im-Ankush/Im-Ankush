@@ -82,13 +82,6 @@ Scalable notification architecture featuring:
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-Ankush&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Ankush&layout=compact&theme=tokyonight)
-
----
 
 # 🔥 Contribution Activity
 
